@@ -1,20 +1,20 @@
 # Fine-Tuned ImageNet-VGG16 Image Classification Model
 
-# Introduction
+1. Introduction
 
 
 
-# Table of Contents
+2. Table of Contents
 
 
 
-# Code Walkthrough
+3. Code Walkthrough
 
 
 
 
-# Results
+4. Results
 
 
 
-# References
+5. References
